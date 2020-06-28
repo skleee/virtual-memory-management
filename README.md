@@ -67,3 +67,7 @@ Memory residence set changing, Page fault page
 
 ### Working set
 ![ws](screenshot/ws2.png)
+
+<br></br>
+## To be fixed
+- [ ] Page fault counts not working
